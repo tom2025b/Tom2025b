@@ -1,0 +1,13 @@
+--- HARDWARE SPECS ---
+Model name:                              Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       2.8Gi       1.1Gi       470Mi       4.5Gi       4.8Gi
+Swap:          4.0Gi       418Mi       3.6Gi
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda      8:0    0   1.8T  0 disk 
+├─sda1   8:1    0   512M  0 part /boot/efi
+└─sda2   8:2    0   1.8T  0 part /
+sdb      8:16   1 119.1G  0 disk 
+└─sdb1   8:17   1 119.1G  0 part /media/tom/NIKON D300S
+sr0     11:0    1  1024M  0 rom  
+zram0  251:0    0     4G  0 disk 
